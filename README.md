@@ -1,3 +1,3 @@
 # Repositório para projetos da disciplina de Introdução a Python para Bioscientistas
 
-## Não me responsabilizo por códigos incorretos
+## _Não me responsabilizo por códigos incorretos_
